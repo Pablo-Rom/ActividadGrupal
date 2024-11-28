@@ -82,9 +82,11 @@ a:hover{
 .r{
 	border-radius: 30px;
 	border-color: gray;
+	background-color: rgb(153, 102, 153);
+ 	color: rgb(255, 255, 204);
 }
 
 .bienvenidos{
 	font-size: 20px;
-	border-style: groove;
+	color: gray;
 }
