@@ -83,3 +83,8 @@ a:hover{
 	border-radius: 30px;
 	border-color: gray;
 }
+
+.bienvenidos{
+	font-size: 20px;
+	border-style: groove;
+}
